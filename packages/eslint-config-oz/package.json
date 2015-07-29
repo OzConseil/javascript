@@ -1,14 +1,14 @@
 {
-  "name": "eslint-config-airbnb",
-  "version": "0.0.6",
-  "description": "Airbnb's ESLint config, following our styleguide",
+  "name": "eslint-config-oz",
+  "version": "1.0.0",
+  "description": "Oz ESLint config, following Airbnb styleguide",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/airbnb/javascript"
+    "url": "https://github.com/ozconseil/javascript"
   },
   "keywords": [
     "eslint",
@@ -21,14 +21,13 @@
   "author": "Jake Teton-Landis (https://twitter.com/@jitl)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/airbnb/javascript/issues"
+    "url": "https://github.com/ozconseil/javascript/issues"
   },
-  "homepage": "https://github.com/airbnb/javascript",
+  "homepage": "https://github.com/ozconseil/javascript",
   "dependencies": {
-    "airbnb-style": "2.0.0",
-    "babel-eslint": "3.1.7",
-    "eslint": "0.21.2",
-    "eslint-plugin-react": "2.3.0",
+    "oz-style": "1.0.0",
+    "babel-eslint": "4.0.5",
+    "eslint": "0.24.1",
     "resolve": "1.1.6",
     "strip-json-comments": "1.0.2"
   }
