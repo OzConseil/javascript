@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-oz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Oz ESLint config, following Airbnb styleguide",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/ozconseil/javascript",
   "dependencies": {
-    "oz-style": "1.0.0",
+    "oz-style": "1.0.1",
     "babel-eslint": "4.0.5",
     "eslint": "0.24.1",
     "resolve": "1.1.6",
